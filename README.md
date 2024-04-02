@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kashishkabra&label=Profile%20views&color=0e75b6&style=flat" alt="kashishkabra" /> </p>
 
-- 🌱 I’m currently learning **C++,C,Python,react.js.**
+- 🌱 I’m currently learning **C++,C,Python,React.js.,Java,MySQL**
 
 - 📫 How to reach me **kashishkabra2004@gmail.com**
 
